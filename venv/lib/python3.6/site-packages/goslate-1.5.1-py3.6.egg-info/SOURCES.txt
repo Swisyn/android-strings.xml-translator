@@ -1,0 +1,11 @@
+MANIFEST.in
+README.rst
+goslate.py
+setup.cfg
+setup.py
+test_goslate.py
+goslate.egg-info/PKG-INFO
+goslate.egg-info/SOURCES.txt
+goslate.egg-info/dependency_links.txt
+goslate.egg-info/requires.txt
+goslate.egg-info/top_level.txt
