@@ -26,7 +26,7 @@ from googletrans import Translator
 
 # run as "python3.5 translator.py"
 
-# LANGUAGE CODES FOR REFERENCE --> http://py-googletrans.readthedocs.io/en/latest/
+# LANGUAGE CODES FOR REFERENCE --> http://py-googletrans.readthedocs.io/en/latest/#googletrans-languages
 
 INFILE = input("Enter strings.xml file path")
 INPUTLANGUAGE = input("Enter input language, such as (en, tr)")
